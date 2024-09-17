@@ -2,7 +2,7 @@
 [![OpenCollective](https://opencollective.com/debug/backers/badge.svg)](#backers)
 [![OpenCollective](https://opencollective.com/debug/sponsors/badge.svg)](#sponsors)
 
-<img width="647" src="https://user-images.githubusercontent.com/71256/29091486-fa38524c-7c37-11e7-895f-e7ec8e1039b6.png">
+<img width="647" src="https://user-images.githubusercontent.com/71256/29091486-fa38524c-7c37-11e7-895f-e7ec8e1039b6.png"> 
 
 A tiny JavaScript debugging utility modelled after Node.js core's debugging
 technique. Works in Node.js and web browsers.
@@ -478,4 +478,5 @@ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
-SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE. .
+(run)
