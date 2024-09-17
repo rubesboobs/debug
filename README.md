@@ -48,7 +48,7 @@ var a = require('debug')('worker:a')
 
 function work() {
   a('doing lots of uninteresting work');
-  setTimeout(work, Math.random() * 1000);
+  setTimeout(work, Math.random() * 1000); 
 }
 
 work();
